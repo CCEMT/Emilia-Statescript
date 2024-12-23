@@ -1,0 +1,18 @@
+{
+    "name": "Emilia.Statescript.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0352b44ce078c14499c88f28cfc4a7e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
