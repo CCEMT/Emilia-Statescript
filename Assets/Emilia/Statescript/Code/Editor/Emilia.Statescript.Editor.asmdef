@@ -2,6 +2,11 @@
     "name": "Emilia.Statescript.Editor",
     "rootNamespace": "",
     "references": [
+        "GUID:b56a80d637f16264186fc4837331915e",
+        "GUID:d9cefae20c909d449a8545e0c915e664",
+        "GUID:75e104de4c9984d4885cb52da91afec5",
+        "GUID:9545ec3cc66453f42a45fa6837e482b4",
+        "GUID:85e0b9c6356510a47b2a8066c8693381",
         "GUID:d0352b44ce078c14499c88f28cfc4a7e"
     ],
     "includePlatforms": [
