@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "9056a1911614fae774972f1302490d4e0d325c45"
+      "hash": "8bd3ddef5dab28ff81d573b3485d5724a7370b80"
     },
     "com.emilia.kit": {
       "version": "https://github.com/CCEMT/Emilia-Kit.git?path=Assets/Emilia/Kit",
@@ -19,7 +19,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "b5b9e96762bdf29d57bc48b8932000cffd374061"
+      "hash": "35db9fb958b2cecc2cc843c8aa0b6a7edb997ae7"
     },
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
